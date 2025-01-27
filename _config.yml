@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Lily Luo
 
 # CUSTOMIZE
-# Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2025
+# Short bio or description about you (displayed in the header)
+description: Hi everyone! I am a junior majoring in CS and minoring in math and game design :)
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -32,11 +32,11 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: yl9814@nyu.edu
   facebook:
   flickr:
   github: ossd-s25
-  instagram:
+  instagram: 10187lily
   linkedin:
   pinterest:
   twitter:

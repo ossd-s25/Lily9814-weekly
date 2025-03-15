@@ -24,6 +24,6 @@ Replace the first row with your own contribution.
 | |[link to my contribution]()|||
 | |[link to my contribution]()|||
 |Mar 4|[link to my contribution](https://github.com/ossd-s25/project-evaluation/blob/main/template_evaluation.md)|Fix typo in project_evaluation template|Corrected typo to improve clarity. This ensures that all future projects based on this template will have the correct wording.|
-|Mar 15|[link to my contribution](https://github.com/oppia/oppia/issues/22147)|Oppia|Improve progress bar design in Diagnostic Test Player|
-|Mar 15|[link to my contribution](https://github.com/oppia/oppia/issues/22148)|Oppia|Fix radio button indicator alignment in Diagnostic Test|
+|Mar 15|[link to my contribution](https://github.com/oppia/oppia/issues/22147)|Oppia|[Feature Request]: Improve progress bar design in Diagnostic Test Player|
+|Mar 15|[link to my contribution](https://github.com/oppia/oppia/issues/22148)|Oppia|[Feature Request]: Fix radio button indicator alignment in Diagnostic Test|
 | |[link to my contribution]()|||

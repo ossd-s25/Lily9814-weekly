@@ -27,4 +27,5 @@ Replace the first row with your own contribution.
 |Mar 15|[link to my contribution](https://github.com/oppia/oppia/issues/22147)|Oppia|[Feature Request]: Improve progress bar design in Diagnostic Test Player|
 |Mar 15|[link to my contribution](https://github.com/oppia/oppia/issues/22148)|Oppia|[Feature Request]: Fix radio button indicator alignment in Diagnostic Test|
 |Mar 30|[link to my contribution](https://github.com/ossd-s25/qq3173732005-weekly/issues/1)|Peer's blog|I reported a broken link|
+|Mar 30|[link to my contribution](https://github.com/ossd-s25/ajokt123-weekly/issues/2)|Peer's blog|I reported a broken link|
 | |[link to my contribution]()|||

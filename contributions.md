@@ -28,4 +28,8 @@ Replace the first row with your own contribution.
 |Mar 15|[link to my contribution](https://github.com/oppia/oppia/issues/22148)|Oppia|[Feature Request]: Fix radio button indicator alignment in Diagnostic Test|
 |Mar 30|[link to my contribution](https://github.com/ossd-s25/qq3173732005-weekly/issues/1)|Peer's blog|I reported a broken link|
 |Mar 30|[link to my contribution](https://github.com/ossd-s25/ajokt123-weekly/issues/2)|Peer's blog|I reported a broken link|
-| |[link to my contribution]()|||
+|April 6|[link to my contribution](https://translatewiki.net/wiki/Special:Contributions/Lily9814)|Translations|Complete all unfinished translations in OpenStreetMap on translatewiki|
+|April 13|[link to my contribution](https://en.wikipedia.org/wiki/Special:Contributions/Lily98149814)|Fixed grammar|Fixed grammar in a paragraph describing crispy fried chicken on Wikipedia|
+|April 20|[link to my contribution](https://translatewiki.net/wiki/Special:Contributions/Lily9814)|Translations|Complete >10 translations to simplified Chinese in MediaWiki on translate wiki|
+|April 27|[link to my contribution](https://en.wikipedia.org/w/index.php?title=Oxalis_rubra&oldid=1289281242)|Fixed grammar|Fixed grammar in a paragraph describing Oxalis rubra on WIkipedia|
+|May 6|[link to my contribution]()|||
